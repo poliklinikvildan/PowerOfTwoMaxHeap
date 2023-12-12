@@ -47,12 +47,10 @@
      
 ## Test Results
 
-### Small Children Power
-
+Small Children Power
 Result: [3, 5, 8, 10, 15]
 
-### Large Children Power
-
+Large Children Power
 Result: [3, 5, 8, 10, 15]
 
 
