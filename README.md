@@ -24,14 +24,22 @@
      ```
 
    - After successful compilation, notice that additional class files (`HeapTester.class` and `PowerOfTwoMaxHeap.class`) are generated in the same directory. **At the beginning, your project directory should only contain the `PowerOfTwoMaxHeap.java` file. Ensure that it does not already contain .class files before running the compilation command.**
+  
+4.  **Run the Compiled Program:**
+   - Start the Java program using the following command:
+     ```bash
+     java HeapTester
+     ```
 
-4. **Run the Compiled Program:**
+   - The `HeapTester` class is responsible for testing the `PowerOfTwoMaxHeap` class. It inserts values into the heap and pops max values to demonstrate the functionality.
+
+5. **Run the Compiled Program:**
    - Start the Java program using the following command:
      ```bash
      java PowerOfTwoMaxHeap
      ```
 
-5. **View Results:**
+6. **View Results:**
    - The program will display the results in the terminal.
 
 **Note:** The class files (`HeapTester.class` and `PowerOfTwoMaxHeap.class`) are generated during compilation. 
