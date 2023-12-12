@@ -44,6 +44,17 @@
 
 5. **View Results:**
    - The program will display the results in the terminal.
+     
+## Test Results
+
+### Small Children Power
+
+Result: [3, 5, 8, 10, 15]
+
+### Large Children Power
+
+Result: [3, 5, 8, 10, 15]
+
 
 **Note:** The class files (`HeapTester.class` and `PowerOfTwoMaxHeap.class`) are generated during compilation. 
 Ensure that your project starts with only the `PowerOfTwoMaxHeap.java` file, and class files should not exist in the project directory before running the compilation command.
