@@ -1,6 +1,15 @@
 # PowerOfTwoMaxHeap
  A Java implementation of a performant max heap structure with a variable number of children per parent, featuring insertion and extraction of maximum values.
 
+## Features
+
+- The heap satisfies the heap property.
+- Each parent node in the heap has a configurable number of children, denoted by the parameter `childrenPower` in the constructor.
+- Provides an `insert` method for inserting values into the heap.
+- Implements a `popMax` method for removing and returning the maximum value from the heap.
+- Prioritizes performance, keeping cycles and memory usage to a minimum.
+- Uses a descriptive variable name (`childrenPower`) for the parameter representing the number of children in the constructor.
+
 ## Compiling and Running the Java Program (PowerOfTwoMaxHeap)
 
 ### Prerequisites
